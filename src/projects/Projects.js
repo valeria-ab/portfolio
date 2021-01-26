@@ -4,7 +4,7 @@ import styleContainer from "./../common/styles/Container.module.css";
 import Project from "./project/Project";
 
 
-function Projects(props) {
+function Projects() {
     return (
         <div className={style.projectsBlock}>
             <div className={styleContainer.container}>
