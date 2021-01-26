@@ -1,11 +1,13 @@
 .skill {
     width: 250px;
     background-color: #D7EEFC;
+    margin: 10px;
     display: flex;
     flex-direction: column;
 
     align-items: center;
     text-align: center;
+
 
 }
 

@@ -9,3 +9,7 @@
     align-items: center;
     justify-content: space-between;
 }
+.title {
+    background-color: #CED8C2;
+    margin: 30px auto;
+}
