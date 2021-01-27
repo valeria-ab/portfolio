@@ -1,0 +1,27 @@
+.footer {
+    height: 180px;
+    background-color: #73c6af;
+}
+
+.footerContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon {
+    height: 60px;
+    width: 60px;
+    background-color: bisque;
+
+}
+
+.icons {
+    width: 350px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

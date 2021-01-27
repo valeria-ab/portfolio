@@ -2,10 +2,8 @@
     border: 1px solid;
     width: 500px;
     background-color: #D7EEFC;
-    margin: 10px;
     display: flex;
     flex-direction: column;
-
     align-items: center;
     text-align: center;
 }
@@ -30,4 +28,7 @@
 }
 .projectTitle {
     background-color: #f8e88e;
+}
+.description {
+    background-color: #f68ef8
 }
