@@ -1,7 +1,8 @@
 .skill {
-    width: 250px;
+    width: 300px;
     background-color: #D7EEFC;
-    margin: 10px;
+    margin: 20px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
 

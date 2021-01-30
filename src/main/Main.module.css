@@ -1,15 +1,22 @@
 .mainBlock {
-    height: 100vh; /*занимает всю высоту экрана на каком бы его не открыли*/
+
+    min-height: 90vh;
+    /*занимает всю высоту экрана на каком бы его не открыли*/
     background-color: #ffaffb ;
+
+
+
 }
 
 .text {
     width: 400px;
     background-color: #D7EEFC;
+margin-top: 15%;
 
 }
 .photo {
     width: 300px;
     height: 400px;
     background-color: #ccedff;
+    margin-top: 15%;
 }

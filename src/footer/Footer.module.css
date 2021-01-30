@@ -1,5 +1,5 @@
 .footer {
-    height: 180px;
+    height: 150px;
     background-color: #73c6af;
 }
 
@@ -9,19 +9,23 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+padding-bottom: 20px;
 }
 
 .icon {
     height: 60px;
     width: 60px;
     background-color: bisque;
-
+   /* margin-top: 10%;*/
 }
 
 .icons {
+margin-top: 15px;
     width: 350px;
     max-width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+
 }
